@@ -1,0 +1,85 @@
+.logo {
+    text-align: center;
+}
+.nav {
+    background-color: #eee;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 16px;
+}
+.form {
+    background-color: #eee;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.buttons {
+    background-color: #eee;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 20px;
+}
+
+element.style {
+}
+input[type="submit"] {
+    vertical-align: top;
+    font-size: 13px;
+    line-height: normal;
+    background: silver;
+    box-shadow: inset -1px -1px #0a0a0a, inset 1px 1px #fff, inset -2px -2px grey, inset 2px 2px #dfdfdf;
+    border: none;
+    border-radius: 0;
+    height: 25px;
+    padding: 0 25px;
+}
+.footer {
+    
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 14px;
+    margin-top: 0.3%;
+}
+.box1 {
+    background-color: rgb(126, 229, 218);
+    width: 36%;
+    height: 70px;
+    float: left;
+    margin-right: 0.3%;
+    padding-top: 1%;
+    padding-bottom: 1% ;
+}
+.box2 {
+    background-color: rgb(112, 204, 194);
+    width: 21%;
+    height: 70px;
+    float: left;
+    margin-right: 0.3%;
+    padding-top: 1%;
+    padding-bottom: 1% ;
+}
+.box3 {
+    background-color:rgb(98, 179, 170);
+    width: 42.3%;
+    height: 84px;
+    float: left;
+    padding-top: 1px;
+    padding-bottom: 1% ;
+}
+input[name="SubmitAction"] {
+    height: 23px;
+    margin: 1px 0;
+    padding: 0 15px;
+}
+.clear {clear: both;
+text-align: center;
+padding-top: 25px;}
+
